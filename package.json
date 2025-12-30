@@ -1,0 +1,26 @@
+{
+  "name": "react-native-signature-input",
+  "version": "1.0.0",
+  "description": "A lightweight, pure JS signature capture component for React Native using SVG",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": ">=12.0.0"
+  },
+  "author": "Vasanth",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "signature",
+    "handwriting",
+    "svg",
+    "canvas",
+    "drawing"
+  ]
+}
