@@ -13,6 +13,14 @@
     "react-native": "*",
     "react-native-svg": ">=12.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VASANTH3105/react-native-signature-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VASANTH3105/react-native-signature-input/issues"
+  },
+  "homepage": "https://github.com/VASANTH3105/react-native-signature-input#readme",
   "author": "Vasanth",
   "license": "MIT",
   "keywords": [
